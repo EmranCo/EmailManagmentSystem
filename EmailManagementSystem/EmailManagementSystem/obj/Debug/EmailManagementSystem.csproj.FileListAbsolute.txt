@@ -1,0 +1,28 @@
+c:\users\dell\documents\visual studio 2012\Projects\EmailManagementSystem\EmailManagementSystem\bin\Debug\EmailManagementSystem.exe.config
+c:\users\dell\documents\visual studio 2012\Projects\EmailManagementSystem\EmailManagementSystem\bin\Debug\EmailManagementSystem.exe
+c:\users\dell\documents\visual studio 2012\Projects\EmailManagementSystem\EmailManagementSystem\bin\Debug\EmailManagementSystem.pdb
+c:\users\dell\documents\visual studio 2012\Projects\EmailManagementSystem\EmailManagementSystem\obj\Debug\EmailManagementSystem.Form1.resources
+c:\users\dell\documents\visual studio 2012\Projects\EmailManagementSystem\EmailManagementSystem\obj\Debug\EmailManagementSystem.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2012\Projects\EmailManagementSystem\EmailManagementSystem\obj\Debug\EmailManagementSystem.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2012\Projects\EmailManagementSystem\EmailManagementSystem\obj\Debug\EmailManagementSystem.exe
+c:\users\dell\documents\visual studio 2012\Projects\EmailManagementSystem\EmailManagementSystem\obj\Debug\EmailManagementSystem.pdb
+c:\users\dell\documents\visual studio 2012\Projects\EmailManagementSystem\EmailManagementSystem\obj\Debug\EmailManagementSystem.Dashboard.resources
+c:\users\dell\documents\visual studio 2012\Projects\EmailManagementSystem\EmailManagementSystem\obj\Debug\EmailManagementSystem.SendEmail.resources
+c:\users\dell\documents\visual studio 2012\Projects\EmailManagementSystem\EmailManagementSystem\obj\Debug\EmailManagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Dell\source\repos\EmailManagementSystem\EmailManagementSystem\bin\Debug\EmailManagementSystem.exe.config
+C:\Users\Dell\source\repos\EmailManagementSystem\EmailManagementSystem\bin\Debug\EmailManagementSystem.exe
+C:\Users\Dell\source\repos\EmailManagementSystem\EmailManagementSystem\bin\Debug\EmailManagementSystem.pdb
+C:\Users\Dell\source\repos\EmailManagementSystem\EmailManagementSystem\bin\Debug\AE.Net.Mail.dll
+C:\Users\Dell\source\repos\EmailManagementSystem\EmailManagementSystem\bin\Debug\AE.Net.Mail.pdb
+C:\Users\Dell\source\repos\EmailManagementSystem\EmailManagementSystem\obj\Debug\EmailManagementSystem.Dashboard.resources
+C:\Users\Dell\source\repos\EmailManagementSystem\EmailManagementSystem\obj\Debug\EmailManagementSystem.EmailMessage.resources
+C:\Users\Dell\source\repos\EmailManagementSystem\EmailManagementSystem\obj\Debug\EmailManagementSystem.Form1.resources
+C:\Users\Dell\source\repos\EmailManagementSystem\EmailManagementSystem\obj\Debug\EmailManagementSystem.Inboxes.resources
+C:\Users\Dell\source\repos\EmailManagementSystem\EmailManagementSystem\obj\Debug\EmailManagementSystem.Properties.Resources.resources
+C:\Users\Dell\source\repos\EmailManagementSystem\EmailManagementSystem\obj\Debug\EmailManagementSystem.SendEmail.resources
+C:\Users\Dell\source\repos\EmailManagementSystem\EmailManagementSystem\obj\Debug\EmailManagementSystem.csproj.GenerateResource.cache
+C:\Users\Dell\source\repos\EmailManagementSystem\EmailManagementSystem\obj\Debug\EmailManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\EmailManagementSystem\EmailManagementSystem\obj\Debug\EmailManagementSystem.csproj.CopyComplete
+C:\Users\Dell\source\repos\EmailManagementSystem\EmailManagementSystem\obj\Debug\EmailManagementSystem.exe
+C:\Users\Dell\source\repos\EmailManagementSystem\EmailManagementSystem\obj\Debug\EmailManagementSystem.pdb
+C:\Users\Dell\source\repos\EmailManagementSystem\EmailManagementSystem\obj\Debug\EmailManagementSystem.csprojAssemblyReference.cache
